@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Duivleo
--     I am a Chemical Engineer (by education), but I have worked during most of my professional live as a Drilling Engineer, drilling for Oil/Gas and Geothermy.
+-     I am a Chemical Engineer (by education), but I have worked during most of my professional live as 
+-     a Drilling Engineer, drilling for Oil/Gas and Geothermy.
 -     Currently retired
 - 👀 I’m interested in Domotica, especially in combination with Reducing Energy Consumption.
 -     
